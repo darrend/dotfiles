@@ -1,4 +1,3 @@
-set guifont=Mensch\ 10
 set guioptions-=m
 set guioptions-=T
 set guioptions-=r
